@@ -14,3 +14,7 @@ Bank --4th
 Students --5th  
 ![alt text](image.png)    
 ![alt text](image-1.png)
+
+
+interfaces -- 7th  
+![image](https://github.com/user-attachments/assets/648f1ac9-4dcd-4f8d-9a72-c85e3365d4ad)
